@@ -44,7 +44,7 @@
           },
           setResult(result){
               this.weather = result;
-              this.query = '';
+              this.query = ''
           }
       }
   }
